@@ -12,7 +12,7 @@ import { useTranslation } from 'next-i18next'
 import Switch from './Switch'
 
 const NODE_URLS = [
-  { label: 'Triton (RPC Pool)', value: 'https://mango.rpcpool.com' },
+  { label: 'Triton (RPC Pool)', value: 'https://connect.runnode.com/?apikey=lSDAg65vwTQRz6YcKPpt' },
   {
     label: 'Genesys Go',
     value: 'https://mango.genesysgo.net/',
